@@ -37,4 +37,13 @@ nav {
     border-radius: 50%;
     overflow: hidden;
 }
+ h1{
+    color: green;
+    margin-top: 120px;
+    margin-left: 25px;
+    text-indent: 25px;
+ }
 
+ p {
+    margin-left: 25px;
+ }
