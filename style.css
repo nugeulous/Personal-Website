@@ -47,9 +47,17 @@ h1{
     margin-left: 25px;
     text-indent: 50px;
 }
+h2 {
+    color: darkblue;
+    margin-left: 20px;
+}
 
 p {
     padding-left: 10px;
+}
+img#home-photo {
+    padding-right: 20px;
+    float: inline-start;    
 }
 
 img#about-page {
