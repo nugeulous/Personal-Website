@@ -66,3 +66,28 @@ img#about-page {
     float: left;
 }
 
+.contact-info {
+    color: rgb(68, 68, 176);
+    padding-top: 2%;
+    padding-left: 1vh;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    height: 175px;
+    text-align: center;
+}
+
+.bbox-1, .bbox-2, .bbox-3 {
+    display: flex;
+    flex-wrap: wrap;
+    flex: calc(20%);
+    background-color: rgb(116, 240, 199);
+    margin-left: .5vh;
+    margin-right: .5vh;
+    margin-top: 20vh;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+}
